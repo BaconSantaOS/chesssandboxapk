@@ -28,7 +28,7 @@ That’s it. Install it on your Android phone and play.
 
 ## Project Files
 
-- chess-sandbox-android.apk - The app file (install this on your phone)
+- app-release.apk - The app file (install this on your phone)
 
 ## How to Play
 
