@@ -44,7 +44,7 @@ MIT License - See LICENSE file for details
 
 ## Support
 
-support@chesssandbox.com
+Email: support@chesssandbox.com
 
 Join Discord: https://discord.gg/PKeRF7fQta
 
